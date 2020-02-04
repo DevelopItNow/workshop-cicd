@@ -8,4 +8,4 @@ validateEnv();
 
 const app = new App([new IndexRoute(), new UsersRoute()]);
 
-app.listen()
+app.listen();
